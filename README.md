@@ -4,7 +4,7 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MuzaffeerD&show_icons=true&locale=en&theme=algolia "/>
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MuzaffeerD&show_icons=true&locale=en&theme=algolia&include_all_commits=true "/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuzaffeerD&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia%22%20alt=%22MuzaffeerD"/>
 </a>
 </p>
