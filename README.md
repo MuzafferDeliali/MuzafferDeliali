@@ -4,13 +4,13 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
- <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MuzaffeerD&show_icons=true&locale=en&theme=algolia&include_all_commits=true "/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuzaffeerD&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia%22%20alt=%22MuzaffeerD"/>
+ <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MuzafferDeliali&show_icons=true&locale=en&theme=algolia&include_all_commits=true "/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuzafferDeliali&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia%22%20alt=%22MuzafferDeliali"/>
 </a>
 </p>
 
 <!--
-**MuzaffeerD/MuzaffeerD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MuzafferDeliali/MuzafferDeliali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
